@@ -6,6 +6,4 @@ B站@Ender_crystal123                                                           
 不要催力！                                                                                         
 最后更新：2024年7月25日00:57                                                                        
 联系方式（电子邮箱）：zhz20121211@126.com
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">访问量<span id="busuanzi_value_site_pv"></span>次</span>
-        
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ender_crystal123)](https://github.com/Ender_crystal123/github-readme-stats)
